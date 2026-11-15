@@ -1,0 +1,6 @@
+{
+  "name": "PaletteOS",
+  "description": "AI-powered design system generator and management platform with intelligent color shade cards, typography scales, design tokens, component previews, and exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
